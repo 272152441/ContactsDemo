@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content" android:layout_height="wrap_content"
+    android:textSize="60sp"
+    android:textColor="@android:color/white"
+    android:background="@drawable/contact_nav_promppt_bg"
+    android:minWidth="100dp"
+    android:text="A"
+    android:minHeight="100dp"
+    android:gravity="center">
+
+</TextView>
