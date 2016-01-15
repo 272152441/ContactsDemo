@@ -7,7 +7,7 @@
 
 Here is a demo,it imitates weichat contacts.
 
-
+效果图：![Renderings](https://github.com/272152441/ContactsDemo/blob/master/contactsdemo.gif)  
 
 <h2>Copyright</h2>
 
